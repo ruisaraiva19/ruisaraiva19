@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ruisaraiva19" target="blank"><img src="https://img.shields.io/twitter/follow/ruisaraiva19?logo=twitter&style=for-the-badge" alt="ruisaraiva19" /></a> </p>
 
-- 🔭 I’m currently working on [Favycon](https://github.com/ruisaraiva19/favycon)
+- 🔭 I’m currently working on [Favycon](https://github.com/ruisaraiva19/favycon) and [Wagtail Grapple](https://github.com/GrappleGQL/wagtail-grapple)
 
 - 🌱 I’m currently learning **Vue 3 Composition API**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ruisaraiva19@gmail.com**
 
-- ⚡ Fun fact **I applied to my first job with the idea of working with a developer of that company and when I started working on the company, that person has already been promoted to project manager. You win some, you lose some 🤷‍♂️.**
+- ⚡ Fun fact **I applied to my first job with the idea of working with a developer of that company and when I started working on the company, that person has already been promoted to Project Manager. You win some, you lose some 🤷‍♂️.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
