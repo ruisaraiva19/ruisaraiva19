@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ruisaraiva19" target="blank"><img src="https://img.shields.io/twitter/follow/ruisaraiva19?logo=twitter&style=for-the-badge" alt="ruisaraiva19" /></a> </p>
 
-- 🔭 I’m currently working on [@mswjs/data](https://github.com/mswjs/data) and [Wagtail Grapple](https://github.com/GrappleGQL/wagtail-grapple)
+- 🔭 I’m currently contributing to [@mswjs/data](https://github.com/mswjs/data) and [Wagtail Grapple](https://github.com/GrappleGQL/wagtail-grapple)
 
 - 🌱 I’m currently learning **[Remix](https://remix.run)**
 
 - 👨‍💻 All of my projects are available at [https://ruisaraiva.dev](https://ruisaraiva.dev)
 
-- 💬 Ask me about **React, Vue, GraphQL, TypeScript and PWAs**
+- 💬 Ask me about **React, TypeScript, and GraphQL**
 
 - 📫 How to reach me **ruisaraiva19@gmail.com**
 
