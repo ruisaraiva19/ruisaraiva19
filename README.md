@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rui Saraiva</h1>
-<h3 align="center">A full-stack developer from Portugal. React.js, TypeScript & GraphQL.</h3>
+<h3 align="center">A full-stack developer from Portugal. React.js, TypeScript & Node.js</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruisaraiva19" alt="ruisaraiva19" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ruisaraiva19" target="blank"><img src="https://img.shields.io/twitter/follow/ruisaraiva19?logo=twitter&style=for-the-badge" alt="ruisaraiva19" /></a> </p>
 
-- 🔭 I’m currently contributing to [@mswjs/data](https://github.com/mswjs/data) and [Wagtail Grapple](https://github.com/GrappleGQL/wagtail-grapple)
+- 🌱 I’m currently learning **[TanStack Router](https://tanstack.com/router)**/**[TanStack Start](https://tanstack.com/start)**
 
-- 🌱 I’m currently learning **[Remix](https://remix.run)**
+- 👨‍💻 Helped build [Favycon](https://favycon.vercel.app) on 2020’s worldwide quarantine.
 
-- 👨‍💻 All of my projects are available at [https://ruisaraiva.dev](https://ruisaraiva.dev)
-
-- 💬 Ask me about **React, TypeScript, and GraphQL**
+- 💬 Ask me about **React, TypeScript, and Node.js**
 
 - 📫 How to reach me **ruisaraiva19@gmail.com**
 
