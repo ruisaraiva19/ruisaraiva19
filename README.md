@@ -31,4 +31,4 @@ I applied for my first job specifically to work with one developer at that compa
 
 ### Come say hi
 
-[ruisaraiva.dev](https://ruisaraiva.dev) · [LinkedIn](https://www.linkedin.com/in/ruisaraiva19) · [X](https://x.com/ruisaraiva19) · <ruisaraiva19@gmail.com>
+[ruisaraiva.dev](https://ruisaraiva.dev) · [LinkedIn](https://www.linkedin.com/in/ruisaraiva19) · [X](https://x.com/ruisaraiva19) · <hello@ruisaraiva.dev>
