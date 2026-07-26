@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Rui Saraiva</h1>
-<h3 align="center">A full-stack developer from Portugal. React.js, TypeScript & Node.js</h3>
+Principal Engineer at [Pixelmatters](https://www.pixelmatters.com), where I've been since 2018 — front-end developer to principal.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruisaraiva19" alt="ruisaraiva19" /></a> </p>
+Most of what I build now is the machinery other engineers work inside rather than the features that pass through it: design systems, front-end architecture, CI pipelines, and the AI-native workflows my team codes in every day.
 
-<p align="left"> <a href="https://twitter.com/ruisaraiva19" target="blank"><img src="https://img.shields.io/twitter/follow/ruisaraiva19?logo=twitter&style=for-the-badge" alt="ruisaraiva19" /></a> </p>
+### What that means in practice
 
-- 🌱 I’m currently learning **[TanStack Router](https://tanstack.com/router)**/**[TanStack Start](https://tanstack.com/start)**
+- **A skill library that guards its own index.** Every agent skill declares what it owns and what it refuses, with the authoring rules for the next one.
+- **Plan, critique, then execute.** An agent drafts the plan; a second pass argues with the draft before a line is written.
+- **Review that sizes its own depth.** The diff is risk-assessed first — a copy change gets a skim, anything touching auth or deploys is read line by line with a named human owner.
+- **The handover.** Getting all of it out of one team and into every project, and running the internal sessions where it gets taught.
 
-- 👨‍💻 Helped build [Favycon](https://favycon.vercel.app) on 2020’s worldwide quarantine.
+The decision to ship stays with a person. That's the line the rest of it exists to protect.
 
-- 💬 Ask me about **React, TypeScript, and Node.js**
+Most of this work lives in client repositories, so what's public here is a thin slice of it.
 
-- 📫 How to reach me **ruisaraiva19@gmail.com**
+### Open source
 
-- ⚡ Fun fact **I applied to my first job with the idea of working with a developer of that company and when I started working on the company, that person has already been promoted to Project Manager. You win some, you lose some 🤷‍♂️.**
+- [**Favycon**](https://github.com/ruisaraiva19/favycon) — a favicon generator: one image in, every size a browser might ask for out. Live at [favycon.vercel.app](https://favycon.vercel.app).
+- [**saraiva-dark**](https://github.com/ruisaraiva19/saraiva-dark) — a VS Code theme built on the Base16 Ocean palette.
+- [**auto-all-contributors**](https://github.com/ruisaraiva19/auto-all-contributors) — automates acknowledging contributors on open-source projects.
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/ruisaraiva19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ruisaraiva19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ruisaraiva19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruisaraiva19" height="30" width="40" /></a>
-</p>
+### Working with
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+TypeScript end to end. React with TanStack Router, Query and Form. Design systems on Radix and shadcn/ui, documented in Storybook. Node, pnpm workspaces, GitHub Actions, Cloudflare Pages. A long-running interest in accessible interfaces.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruisaraiva19&layout=compact" alt="ruisaraiva19" /></p>
+### Elsewhere
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruisaraiva19&show_icons=true" alt="ruisaraiva19" /></p>
+[ruisaraiva.dev](https://ruisaraiva.dev) · [LinkedIn](https://www.linkedin.com/in/ruisaraiva19) · [X](https://x.com/ruisaraiva19) · <ruisaraiva19@gmail.com>
