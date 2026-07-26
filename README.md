@@ -1,28 +1,34 @@
-Principal Engineer at [Pixelmatters](https://www.pixelmatters.com), where I've been since 2018 — front-end developer to principal.
+### Hey, I'm Rui 👋
 
-Most of what I build now is the machinery other engineers work inside rather than the features that pass through it: design systems, front-end architecture, CI pipelines, and the AI-native workflows my team codes in every day.
+Principal Engineer at [Pixelmatters](https://www.pixelmatters.com). I've been there since 2018 — started as a front-end developer, somehow ended up principal.
 
-### What that means in practice
+These days I mostly build the machinery the rest of the team works inside, rather than the features that go through it: design systems, front-end architecture, CI, and the AI-native workflows we now code in every day.
 
-- **A skill library that guards its own index.** Every agent skill declares what it owns and what it refuses, with the authoring rules for the next one.
-- **Plan, critique, then execute.** An agent drafts the plan; a second pass argues with the draft before a line is written.
-- **Review that sizes its own depth.** The diff is risk-assessed first — a copy change gets a skim, anything touching auth or deploys is read line by line with a named human owner.
-- **The handover.** Getting all of it out of one team and into every project, and running the internal sessions where it gets taught.
+### What I'm nerding out on right now 🤖
 
-The decision to ship stays with a person. That's the line the rest of it exists to protect.
+- **A skill library that guards its own index.** Every agent skill says what it owns and what it refuses, plus the rules for writing the next one. No two skills claiming the same job and disagreeing on a Tuesday.
+- **Plan, critique, then execute.** An agent drafts the plan, a second pass argues with it before a single line gets written. Cheapest time to disagree is while nothing exists yet.
+- **Review that sizes its own depth.** The diff gets risk-assessed first, so a copy tweak gets a skim and anything near auth or deploys gets read line by line, with a human's name on it.
+- **The handover.** Dragging all of it out of one team and into every project, then running the sessions where everyone else picks it up.
 
-Most of this work lives in client repositories, so what's public here is a thin slice of it.
+The decision to ship still stays with a person. That's the one bit that doesn't delegate.
 
-### Open source
+Most of this lives in client repos, so what's public here is a pretty thin slice of it 🙈
 
-- [**Favycon**](https://github.com/ruisaraiva19/favycon) — a favicon generator: one image in, every size a browser might ask for out. Live at [favycon.vercel.app](https://favycon.vercel.app).
-- [**saraiva-dark**](https://github.com/ruisaraiva19/saraiva-dark) — a VS Code theme built on the Base16 Ocean palette.
-- [**auto-all-contributors**](https://github.com/ruisaraiva19/auto-all-contributors) — automates acknowledging contributors on open-source projects.
+### Stuff I've put out there
 
-### Working with
+- [**Favycon**](https://github.com/ruisaraiva19/favycon) — throw in one image, get back every favicon size a browser could possibly ask for. Built during the 2020 lockdown and still, by a mile, the most-used thing with my name on it. [favycon.vercel.app](https://favycon.vercel.app)
+- [**saraiva-dark**](https://github.com/ruisaraiva19/saraiva-dark) — a VS Code theme on the Base16 Ocean palette, for when everything else is too loud.
+- [**auto-all-contributors**](https://github.com/ruisaraiva19/auto-all-contributors) — automates crediting contributors, so nobody gets quietly forgotten.
 
-TypeScript end to end. React with TanStack Router, Query and Form. Design systems on Radix and shadcn/ui, documented in Storybook. Node, pnpm workspaces, GitHub Actions, Cloudflare Pages. A long-running interest in accessible interfaces.
+### What I reach for
 
-### Elsewhere
+TypeScript, all the way down. React with TanStack Router, Query and Form. Design systems on Radix and shadcn/ui, documented in Storybook. Node, pnpm workspaces, GitHub Actions, Cloudflare Pages. And a soft spot for interfaces that work for everyone.
+
+### ⚡ Fun fact
+
+I applied for my first job specifically to work with one developer at that company. By the time I actually started, they'd been promoted to Project Manager. You win some, you lose some 🤷‍♂️
+
+### Come say hi
 
 [ruisaraiva.dev](https://ruisaraiva.dev) · [LinkedIn](https://www.linkedin.com/in/ruisaraiva19) · [X](https://x.com/ruisaraiva19) · <ruisaraiva19@gmail.com>
