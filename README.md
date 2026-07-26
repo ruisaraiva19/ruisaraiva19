@@ -18,7 +18,7 @@ Most of this lives in client repos, so what's public here is a pretty thin slice
 ### Stuff I've put out there
 
 - [**Favycon**](https://github.com/ruisaraiva19/favycon) — throw in one image, get back every favicon size a browser could possibly ask for. Built during the 2020 lockdown and still, by a mile, the most-used thing with my name on it. [favycon.vercel.app](https://favycon.vercel.app)
-- [**saraiva-dark**](https://github.com/ruisaraiva19/saraiva-dark) — a VS Code theme on the Base16 Ocean palette, for when everything else is too loud.
+- [**saraiva-dark**](https://github.com/ruisaraiva19/saraiva-dark) — a VS Code theme on the Base16 Ocean palette.
 - [**auto-all-contributors**](https://github.com/ruisaraiva19/auto-all-contributors) — automates crediting contributors, so nobody gets quietly forgotten.
 
 ### What I reach for
