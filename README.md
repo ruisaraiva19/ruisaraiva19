@@ -1,6 +1,6 @@
 ### Hey, I'm Rui 👋
 
-Principal Engineer at [Pixelmatters](https://www.pixelmatters.com). I've been there since 2018 — started as a front-end developer, somehow ended up principal.
+Principal Engineer at [Pixelmatters](https://www.pixelmatters.com), from Ponte de Lima, Portugal. Same studio since 2018 — started as a front-end developer, somehow ended up principal.
 
 These days I mostly build the machinery the rest of the team works inside, rather than the features that go through it: design systems, front-end architecture, CI, and the AI-native workflows we now code in every day.
 
