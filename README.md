@@ -13,7 +13,7 @@ These days I mostly build the machinery the rest of the team works inside, rathe
 
 The decision to ship still stays with a person. That's the one bit that doesn't delegate.
 
-Most of this lives in client repos, so what's public here is a pretty thin slice of it 🙈
+Most of this lives in client repos, so what's public here is a thin slice — the longer versions end up as write-ups on [ruisaraiva.dev](https://ruisaraiva.dev) 🙈
 
 ### Stuff I've put out there
 
